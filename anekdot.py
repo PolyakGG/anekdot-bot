@@ -7,8 +7,8 @@ import asyncio
 # -----------------------------
 # Прямо в коде прописываем токен и ID канала
 # -----------------------------
-TOKEN = "MTA4ODcyODA3OTMzNTE3NDE4NQ.GlINrB.JmjyI6zil2sQeeMSR8ILeSB5qJWb6Z_n0tW9DY"          # пример: "MTAx…"
-CHANNEL_ID = 1277321618313445517        # ID канала как число
+TOKEN = "токен"          # пример: "MTAx…"
+CHANNEL_ID = айдиканала        # ID канала как число
 
 # -----------------------------
 # Настройка intents
